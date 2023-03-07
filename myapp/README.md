@@ -1,8 +1,8 @@
-# Dash Default Template: MyDashApp
+# Dash Default Template: myapp
 
-Created on 2023-03-07 10:22:46.283762
+Created on 2023-03-07 13:54:50.479910
 
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your MyDashApp app.
+Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your myapp app.
 
 See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
 
